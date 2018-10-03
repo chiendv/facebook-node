@@ -17,12 +17,12 @@
     "node": ">=0.6.9"
   },
   "dependencies": {
-    "request": "2.9.x",
-    "crypto": "0.0.3"
+    "crypto": "0.0.3",
+    "request": "^2.88.0"
   },
   "devDependencies": {
+    "mocha": "^5.2.0",
     "nock": "~0.17.2",
-    "mocha": "~1.9.0",
     "should": "~1.2.2"
   },
   "optionalDependencies": {},
