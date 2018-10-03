@@ -1,13 +1,13 @@
 {
   "author": "Jamie Duong <duongvanchien@gmail.com> (https://github.com/chiendv)",
-  "name": "facebook-node-fix",
+  "name": "@chiendv/facebook-node",
   "description": "NodeJS Library for Facebook",
   "keywords": [
     "facebook",
     "facebook-node",
     "graph"
   ],
-  "version": "0.6.3",
+  "version": "0.6.4",
   "homepage": "https://github.com/chiendv/facebook-node",
   "repository": {
     "type": "git",

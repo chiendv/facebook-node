@@ -8,7 +8,7 @@ This SDK will report usage of which AppID is using it directly to Facebook.
 # Installing facebook-node
 
 ```
-npm install facebook-node-fix
+npm install @chiendv/facebook-node
 ```
 
 ```javascript
